@@ -866,57 +866,40 @@ images/
 
 ## Stage 1
 
-```markdown
+
 ![Stage 1](images/stage1_load.png)
-```
 
 ## Stage 2
 
-```markdown
 ![Stage 2](images/stage2_perspective.png)
-```
 
 ## Stage 3
 
-```markdown
 ![Stage 3](images/stage3_segmentation.png)
-```
 
 ## Stage 4
 
-```markdown
 ![Stage 4](images/stage4_paint.png)
-```
 
 ## Stage 5
 
-```markdown
 ![Stage 5](images/stage5_overlay.png)
-```
 
 ## Stage 6
 
-```markdown
 ![Stage 6](images/stage6_pins.png)
-```
 
 ## Stage 7
 
-```markdown
 ![Stage 7](images/stage7_nets.png)
-```
 
 ## Stage 8
 
-```markdown
 ![Stage 8](images/stage8_routing.png)
-```
 
 ## Stage 9
 
-```markdown
 ![Stage 9](images/stage9_export.png)
-```
 
 ---
 
