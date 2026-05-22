@@ -419,7 +419,7 @@ pip install Pillow opencv-python numpy
 ```text
 project/
 │
-├── pcb_re_V6.py
+├── pcb_reverse_engineeringV6.py
 ├── README.md
 ├── exports/
 ├── images/
@@ -432,7 +432,7 @@ project/
 # Running the Application
 
 ```bash
-python pcb_re_V6.py
+python pcb_reverse_engineeringV6.py
 ```
 
 ---
